@@ -10,22 +10,24 @@ your region and your computer:
 
 | Your Ennora | Mac (Apple silicon) | Windows (64-bit) |
 |---|---|---|
-| UK homes (portal.uk.ennora.ai) | `Ennora UK.dmg` | `Ennora UK Setup.exe` |
-| US homes (portal.us.ennora.ai) | `Ennora US.dmg` | `Ennora US Setup.exe` |
+| UK homes (portal.uk.ennora.ai) | `Ennora UK.dmg` | `Ennora UK-<version> Setup.exe` |
+| US homes (portal.us.ennora.ai) | `Ennora US.dmg` | `Ennora US-<version> Setup.exe` |
 
 Not sure which region you are in? Use the same one as the Ennora web address
 you sign in to.
 
 ## Installing
 
-**Mac.** Open the `.dmg` and drag Ennora into Applications. Open it, sign in
-with your Ennora account, and allow the microphone when your Mac asks. If
-your Mac says the app cannot be checked, open System Settings, then
-Privacy & Security, and press **Open Anyway**.
+**Mac.** Open the `.dmg` and drag Ennora into Applications. The first time
+you open it, your Mac says it was downloaded from the internet: press
+**Open**. Sign in with your Ennora account, and press **Allow** when your
+Mac asks about the microphone. Ennora Desktop is signed by Ethero, Inc. and
+checked by Apple.
 
-**Windows.** Run the `Setup.exe`. If Windows shows "Windows protected your
-PC", press **More info**, then **Run anyway**. Sign in with your Ennora
-account, and allow the microphone if Windows asks.
+**Windows.** Run the `Setup.exe`. Windows may show "Windows protected your
+PC": press **More info**, then **Run anyway**. Sign in with your Ennora
+account. If Ennora says the microphone is not allowed, follow the steps it
+shows, then reopen it.
 
 ## Help
 
