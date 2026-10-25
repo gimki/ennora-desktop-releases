@@ -29,4 +29,4 @@ account, and allow the microphone if Windows asks.
 
 ## Help
 
-Ask your home's Ennora administrator, or write to support at ennora.ai.
+Ask your home's Ennora administrator.
